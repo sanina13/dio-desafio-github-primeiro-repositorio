@@ -1,2 +1,4 @@
 # dio-desafio-github-primeiro-repositorio
-Desafio de Porjeto sobre Git/Github
+Repositóerio criado para o Desafio de Projeto
+# Links Úteis
+https://www.markdownguide.org/
