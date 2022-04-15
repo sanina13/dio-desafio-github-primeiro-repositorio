@@ -1,2 +1,14 @@
-Link para download do Git: https://git-scm.com/downloads
-O Git Bash é um terminal extendido para otimizar o uso do Git.
+Comandos importantes Git:
+git init
+git add
+git commit
+git status
+git push
+
+Como lançar repositório para o Github:
+adicionar todas as alterações com o - git add .
+verificar se a tree está limpa com o - git status
+dar commit as alteraçôes com o - git commit -m "Mensagem com a informação da alteração"
+finalmente dar push "empurrar" o repositório que está guardado localmente para a nuvem neste caso para o GitHub - git push origin main
+
+
